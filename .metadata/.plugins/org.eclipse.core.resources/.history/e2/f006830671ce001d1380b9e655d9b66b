@@ -1,0 +1,22 @@
+
+public class IR {
+	
+	public class TesteIR {
+
+	    public static void main(String[] args) {
+
+	        double salario = 3300.0;
+
+	        //ifs aqui
+
+	        if salario = 1900.0 < 2800.0 {
+	        	
+	        	System.out.println("Seu IR é de 7.5%" + " você pode deduzir o valor de R$142,00.");
+	        else if salario = (> 2800.0 < 3751.0 {
+	        	System.out.println("Seu IR é de 15%" +  " você pode deduzir R$350");
+	        
+	        }
+	        
+	    }
+	}
+}
